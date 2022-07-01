@@ -1,0 +1,23 @@
+* {
+    font-family: sans-serif;
+}
+
+.red {
+    font-size: 32px;
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+.red.big {
+    font-size: 48px;
+}
+
+#blue {
+    font-size: 64px;
+    color: blue;
+}
+
+#green {
+    font-size: 48px;
+    background-color: rgba(0, 255, 0, 0.3);
+    font-weight: 800;
+}
